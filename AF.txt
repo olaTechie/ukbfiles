@@ -1,0 +1,2 @@
+condition	vocab_id	code	description
+AF	ICD10	I48	Atrial Fibrillation

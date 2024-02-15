@@ -1,0 +1,2 @@
+condition	vocab_id	code	description
+SLE	ICD10	M32	Systemic Lupus

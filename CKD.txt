@@ -1,0 +1,4 @@
+condition	vocab_id	code	description
+CKD	ICD10	N183	Chronic Kidney Disease
+CKD	ICD10	N184	Chronic Kidney Disease
+CKD	ICD10	N185	Chronic Kidney Disease

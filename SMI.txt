@@ -1,0 +1,14 @@
+condition	vocab_id	code	description
+SMI	ICD10	F03	Severe Mental Illness
+SMI	ICD10	F068	Severe Mental Illness
+SMI	ICD10	F09 	Severe Mental Illness
+SMI	ICD10	F20	Severe Mental Illness
+SMI	ICD10	F22 	Severe Mental Illness
+SMI	ICD10	F23 	Severe Mental Illness
+SMI	ICD10	F259	Severe Mental Illness
+SMI	ICD10	F28 	Severe Mental Illness
+SMI	ICD10	F29 	Severe Mental Illness
+SMI	ICD10	F31	Severe Mental Illness
+SMI	ICD10	F39 	Severe Mental Illness
+SMI	ICD10	F53 	Severe Mental Illness
+SMI	ICD10	F333	Severe Mental Illness

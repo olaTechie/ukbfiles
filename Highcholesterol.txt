@@ -1,0 +1,6 @@
+condition	vocab_id	code	description
+High cholesterol	ICD10	E780	Pure hypercholesterolaemia
+High cholesterol	ICD10	E782	Mixed hyperlipidaemia
+High cholesterol	ICD10	E783	Hyperchylomicronaemia
+High cholesterol	ICD10	E784	Other hyperlipidaemia
+High cholesterol	ICD10	E785	Hyperlipidaemia, unspecified

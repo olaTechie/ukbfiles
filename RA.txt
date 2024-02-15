@@ -1,0 +1,3 @@
+condition	vocab_id	code	description
+RA	ICD10	M05	Rheumatoid Arthritis
+RA	ICD10	M06	Rheumatoid Arthritis

@@ -1,0 +1,56 @@
+condition	vocab_id	code	description
+CVD	ICD10	I20	Angina pectoris
+CVD	ICD10	I24	Other acute ischaemic heart diseases
+CVD	ICD10	I25	Chronic ischaemic heart disease
+CVD	ICD10	I21	Acute myocardial infarction
+CVD	ICD10	I22	Subsequent myocardial infarction
+CVD	ICD10	I23	Certain current complications following acute myocardial infarction
+CVD	ICD10	I42	Cardiomyopathy
+CVD	ICD10	I43	Cardiomyopathy in diseases classified elsewhere
+CVD	ICD10	I11	Hypertensive heart disease
+CVD	ICD10	I13	Hypertensive heart and renal disease
+CVD	ICD10	I50.0	Congestive heart failure
+CVD	ICD10	I50.1	Left ventricular failure
+CVD	ICD10	I50.9	Heart failure, unspecified
+CVD	ICD10	I48.0	Paroxysmal atrial fibrillation
+CVD	ICD10	I48.1	Persistent atrial fibrillation
+CVD	ICD10	"I48.2
+I48.9"	"Chronic atrial fibrillation
+Atrial fibrillation and atrial flutter, unspecified"
+CVD	ICD10	I64	Stroke, not specified as haemorrhage or infarction
+CVD	ICD10	I63	Cerebral infarction
+CVD	ICD10	I61	Intracerebral haemorrhage
+CVD	ICD10	I62	Other nontraumatic intracranial haemorrhage
+CVD	ICD10	I30.0	Acute nonspecific idiopathic pericarditis
+CVD	ICD10	I30.1	Infective pericarditis
+CVD	ICD10	I30.8	Other forms of acute pericarditis
+CVD	ICD10	I30.9	Acute pericarditis, unspecified
+CVD	ICD10	I31.0	Chronic adhesive pericarditis
+CVD	ICD10	I31.1	Chronic constrictive pericarditis
+CVD	ICD10	I31.2	Haemopericardium, not elsewhere classified
+CVD	ICD10	I31.3	Pericardial effusion (noninflammatory)
+CVD	ICD10	I31.8	Other specified diseases of pericardium
+CVD	ICD10	I31.9	Disease of pericardium, unspecified
+CVD	ICD10	I32.0	Pericarditis in bacterial diseases classified elsewhere
+CVD	ICD10	I32.1	Pericarditis in other infectious and parasitic diseases classified elsewhere1
+CVD	ICD10	I32.8	Pericarditis in other diseases classified elsewhere
+CVD	ICD10	I26.0	Pulmonary embolism with mention of acute cor pulmonale
+CVD	ICD10	I26.9	Pulmonary embolism without mention of acute cor pulmonale
+CVD	ICD10	I801	Phlebitis and thrombophlebitis of femoral vein
+CVD	ICD10	I802	Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+CVD	ICD10	I803	Phlebitis and thrombophlebitis of lower extremities, unspecified
+CVD	ICD10	I82.8	Embolism and thrombosis of other specified veins
+CVD	ICD10	I82.9	Embolism and thrombosis of unspecified vein
+CVD	ICD10	I10	Essential (primary) hypertension
+CVD	ICD10	I11.0	Hypertensive heart disease with (congestive) heart failure
+CVD	ICD10	I11.9	Hypertensive heart disease without (congestive) heart failure
+CVD	ICD10	I12.0	Hypertensive renal disease with renal failure
+CVD	ICD10	I12.9	Hypertensive renal disease without renal failure
+CVD	ICD10	I13.0	Hypertensive heart and renal disease with (congestive) heart failure
+CVD	ICD10	I13.1	Hypertensive heart and renal disease with renal failure
+CVD	ICD10	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+CVD	ICD10	I13.9	Hypertensive heart and renal disease, unspecified
+CVD	ICD10	I15.0	Renovascular hypertension
+CVD	ICD10	I15.1	Hypertension secondary to other renal disorders
+CVD	ICD10	I15.2	Hypertension secondary to endocrine disorders
+CVD	ICD10	I15.8	Other secondary hypertension

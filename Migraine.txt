@@ -1,0 +1,4 @@
+condition	vocab_id	code	description
+Migraine	ICD10	G43	Migraine
+Migraine	ICD10	G440	Migraine
+Migraine	ICD10	N943	Migraine

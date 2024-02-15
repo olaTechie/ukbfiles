@@ -1,0 +1,3 @@
+condition	vocab_id	code	description
+T2D	ICD10	E11	Type 2 Diabetes
+T2D	ICD10	O241	Type 2 Diabetes

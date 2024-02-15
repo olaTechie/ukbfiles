@@ -1,0 +1,14 @@
+condition	vocab_id	code	description
+Hypertension	ICD10	I10	Essential (primary) hypertension
+Hypertension	ICD10	I11.0	Hypertensive heart disease with (congestive) heart failure
+Hypertension	ICD10	I11.9	Hypertensive heart disease without (congestive) heart failure
+Hypertension	ICD10	I12.0	Hypertensive renal disease with renal failure
+Hypertension	ICD10	I12.9	Hypertensive renal disease without renal failure
+Hypertension	ICD10	I13.0	Hypertensive heart and renal disease with (congestive) heart failure
+Hypertension	ICD10	I13.1	Hypertensive heart and renal disease with renal failure
+Hypertension	ICD10	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+Hypertension	ICD10	I13.9	Hypertensive heart and renal disease, unspecified
+Hypertension	ICD10	I15.0	Renovascular hypertension
+Hypertension	ICD10	I15.1	Hypertension secondary to other renal disorders
+Hypertension	ICD10	I15.2	Hypertension secondary to endocrine disorders
+Hypertension	ICD10	I15.8	Other secondary hypertension

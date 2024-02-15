@@ -1,0 +1,20 @@
+condition	vocab_id	code	description
+Diabetes	ICD10	E10	Type 1 diabetes mellitus
+Diabetes	ICD10	E11	Type 2 diabetes mellitus
+Diabetes	ICD10	E13	Other specified diabetes mellitus
+Diabetes	ICD10	E14	Unspecified diabetes mellitus
+Diabetes	ICD10	G590	Diabetic mononeuropathy
+Diabetes	ICD10	G632	Diabetic polyneuropathy
+Diabetes	ICD10	H280	Diabetic cataract
+Diabetes	ICD10	H360	Diabetic retinopathy
+Diabetes	ICD10	M142	Diabetic arthropathy
+Diabetes	ICD10	N083	Glomerular disorders in diabetes mellitus
+Diabetes	ICD10	O240	"Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes
+mellitus"
+Diabetes	ICD10	O241	"Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes
+mellitus"
+Diabetes	ICD10	O243	"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus,
+unspecified"
+Diabetes	ICD10	O244	Diabetes mellitus arising in pregnancy
+Diabetes	ICD10	O249	Diabetes mellitus in pregnancy, unspecified
+Diabetes	ICD10	Y423	Insulin and oral hypoglycaemic [antidiabetic] drugs

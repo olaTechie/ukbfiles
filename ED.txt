@@ -1,0 +1,2 @@
+condition	vocab_id	code	description
+ED	ICD10	N484	Erectile Dysfunction

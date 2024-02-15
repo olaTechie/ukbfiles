@@ -1,0 +1,3 @@
+condition	vocab_id	code	description
+T1D	ICD10	E10	Type 1 Diabetes
+T1D	ICD10	O240	Type 1 Diabetes
